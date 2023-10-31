@@ -8,4 +8,3 @@
 
 Look at my recent works:
 https://github.com/yh-yao/FedGCN
-https://github.com/InterpretableClustering/InterpretableClustering
