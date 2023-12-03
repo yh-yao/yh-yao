@@ -6,5 +6,6 @@
 - 💬 My homepage is https://www.andrew.cmu.edu/user/yuhangya/.
 - 📫 If you have any question on my research or project, e-mail me at yuhangya@andrew.cmu.edu.
 
-Look at my recent works:
-https://github.com/yh-yao/FedGCN
+Look at my recent works: <br/>
+https://github.com/yh-yao/FedGCN <br/>
+https://github.com/yh-yao/FedRule
