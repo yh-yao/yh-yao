@@ -4,7 +4,7 @@
 - 💬 My homepage is [https://www.yuhangyao.com](https://www.yuhangyao.com).
 - 📫 If you have any question on my research or project, e-mail me at yuhangyao8@gmail.com.
 
-**Look at my recent works:**  
+**Look at my recent works**  
 - https://github.com/FedGraph/fedgraph 
 - https://github.com/yh-yao/FedGCN  
 - https://github.com/yh-yao/FedRule
