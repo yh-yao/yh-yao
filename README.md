@@ -8,6 +8,7 @@
 - https://github.com/FedGraph/fedgraph 
 - https://github.com/yh-yao/FedGCN  
 - https://github.com/yh-yao/FedRule
+- https://github.com/Jay-04/FedHE-defense
 
 **Check my PhD thesis**  
 [Efficient Federated Graph Learning: Formulation, Algorithms and Applications](https://search.proquest.com/openview/4bb9fbce845daaae61eb23d0ae855d0c/1%3Fpq-origsite%3Dgscholar%26cbl%3D18750%26diss%3Dy&ved=2ahUKEwjUpIG_ltaNAxXtOTQIHfy_HAEQFnoECBkQAQ&usg=AOvVaw2_bcyzNtrWoQ2sRRMqCoWh)
