@@ -17,3 +17,6 @@
 - [Toward Super Agent System with Hybrid AI Routers](https://arxiv.org/abs/2504.10519)  
 - [TensorOpera Router: A Multi-Model Router for Efficient LLM Inference](https://arxiv.org/abs/2408.12320)  
 - [ScaleLLM: A Resource-Frugal LLM Serving Framework by Optimizing End-to-End Efficiency](https://arxiv.org/abs/2408.00008)
+
+**My recent book**
+- https://github.com/yh-yao/super_agent_book
