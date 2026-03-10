@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Yuhang Yao
 
-- 🔭 I’m currently working on federated graph learning and super agent system.
+- 🔭 I work on LLM agents, reasoning systems, and post-training.
 - 💬 My homepage is [https://www.yuhangyao.com](https://www.yuhangyao.com).
 - 📫 If you have any question on my research or project, e-mail me at yuhangyao8@gmail.com.
 
