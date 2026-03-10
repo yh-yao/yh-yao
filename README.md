@@ -6,10 +6,6 @@
 ![PostTraining](https://img.shields.io/badge/PostTraining-RLHF-orange)
 ![Federated Learning](https://img.shields.io/badge/Federated-Learning-purple)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yh-yao\&show_icons=true\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yh-yao\&layout=compact\&hide_border=true)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=yh-yao.yh-yao)
 
 ---
