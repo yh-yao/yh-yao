@@ -6,8 +6,6 @@
 ![PostTraining](https://img.shields.io/badge/PostTraining-RLHF-orange)
 ![Federated Learning](https://img.shields.io/badge/Federated-Learning-purple)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yh-yao.yh-yao)
-
 ---
 
 # Hi 👋 I'm **Yuhang Yao**
@@ -74,3 +72,5 @@ NeurIPS 2023
 **Build AI Agents from Scratch: LLM‑Driven Agent Design and Practice**
 
 https://github.com/yh-yao/super_agent_book
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yh-yao.yh-yao)
