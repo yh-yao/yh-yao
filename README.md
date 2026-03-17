@@ -72,5 +72,3 @@ NeurIPS 2023
 **Build AI Agents from Scratch: LLM‑Driven Agent Design and Practice**
 
 https://github.com/yh-yao/super_agent_book
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yh-yao.yh-yao)
