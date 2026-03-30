@@ -1,4 +1,4 @@
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yuhang%20Yao-blue?logo=googlescholar)](https://scholar.google.com/citations?user=oQIV0BoAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yuhang%20Yao-blue?logo=googlescholar)](https://scholar.google.com/citations?user=oQIV0BoAAAAJ&hl=en)
 [![GitHub](https://img.shields.io/badge/GitHub-yh--yao-black?logo=github)](https://github.com/yh-yao)
 
 ![Agents](https://img.shields.io/badge/Agents-LLM-blue)
